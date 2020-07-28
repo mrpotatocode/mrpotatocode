@@ -1,5 +1,4 @@
-[![Jason Lengstorf has a lot of ideas.](https://res.cloudinary.com/jlengstorf/image/upload/f_auto,g_auto/v1593579116/jason.af/og-image.jpg)](https://www.jason.af)
+Hi. I’m Mr Potato Code. I don't know why I have a Github. 
 
-Hi. I’m Jason. I build lots of demos on this account and the [@learnwithjason](https://github.com/learnwithjason) organization. Most of them are built live on [_Learn With Jason_](https://www.learnwithjason.dev), a live-streamed pair programming show where super smart people join to teach us something new in 90 minutes.
-
-I work at [Netlify](https://www.netlify.com/?utm_source=github&utm_medium=gh-profile-jl&utm_campaign=devex) as a Principal Developer Experience Engineer. For more information about me (and a whole lot of shenanigans), check out [jason.af](https://www.jason.af/).
+I worked recently at [Plan International Canada](https://stories.plancanada.ca/) as a Data Engineer. 
+Now I am a professional imposter in a data science concentration. For more information I'm on Reddit, but not telling you my username. It's not Mr Potato Code. No seriously that's someone else entirely. How do I convince you? Why would I link a Reddit with two comments? It's not that clever of a username. Believe what you want.
