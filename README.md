@@ -7,4 +7,4 @@ Super importantly, I am working on my Imposter of Data Science degree at the [Un
 
 I know SQL, Python, and R in that order.
 
-I like to listen to plants. WAAAAAAVEYYYYYY.
+I like to listen to plants. [WAAAAAAVEYYYYYY](https://soundcloud.com/mrplantwave).
