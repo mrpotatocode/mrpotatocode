@@ -5,7 +5,7 @@ I am now working for [Readout Health](https://mybiosense.com/) as a Data SK-ient
 
 Super importantly, I am working on my Imposter of Data Science degree at the [University of Toronto iSchool](https://ischool.utoronto.ca/current-students/programs-courses/programs-of-study/master-of-information/human-centred-data-science-hcds/). 
 
-Do I know anything? [Doubtful.](https://write.as/mrpotatocode/)
+Do I know anything? [Doubtful](https://write.as/mrpotatocode/).
 
 This is full of Python, SQL, and R code. Unless I commit it elsewhere, especially those sneaky private repos.
 
