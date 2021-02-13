@@ -6,7 +6,7 @@ Professionally, I am working for [Readout Health](https://mybiosense.com/) doing
 
 Prior to that, I worked recently at [Plan International Canada](https://stories.plancanada.ca/) as a SQL based Data Engineer. 
 
-I am working on a personal R-based project with help from [Rohan Alexander](https://rohanalexander.com/) within this [repo](https://github.com/mrpotatocode/COFEE_COFFEE_COFFEE), so if you only have a moment, check it out. Hopefully it's further along than when I wrote this README. Edit: it has a Shiny App [now](https://mrpotatocode.shinyapps.io/FavouriteCoffees/)!
+I am working on a personal R-based project with help from [Rohan Alexander](https://rohanalexander.com/) within this [repo](https://github.com/mrpotatocode/COFEE_COFFEE_COFFEE), so if you only have a moment, check it out. Hopefully it's further along than when I wrote this README. **Edit**: it has a Shiny App [now](https://mrpotatocode.shinyapps.io/FavouriteCoffees/)!
 
 I'm blogging (rarely) [here](https://write.as/mrpotatocode/).
 
