@@ -11,3 +11,5 @@ I am working on a personal R-based project with help from [Rohan Alexander](http
 I'm blogging (rarely) [here](https://write.as/mrpotatocode/).
 
 I am working on a project with biosonification by listening to plants. [WAAAAAAVEYYYYYY](https://soundcloud.com/mrplantwave).
+
+You can reach me here: <a href="mailto:t.rose.github@protonmail.com">Send Email</a>
