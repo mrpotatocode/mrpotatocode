@@ -1,6 +1,6 @@
 Hi. I’m MrPotatoCode. This is a Github README.
 
-I am ~~working on~~ finishing (_in less than a month wtf??_) my Master of Information in Human Centered Data Science at the [University of Toronto iSchool](https://ischool.utoronto.ca/current-students/programs-courses/programs-of-study/master-of-information/human-centred-data-science-hcds/).
+I have just finished my Master of Information in Human Centered Data Science at the [University of Toronto iSchool](https://ischool.utoronto.ca/current-students/programs-courses/programs-of-study/master-of-information/human-centred-data-science-hcds/).
 
 Professionally, I am working for [Readout Health](https://mybiosense.com/) doing some neat ML, data experimentation, and analytics as a Data Scientist. That work is in a private repo and is done in Python.
 
@@ -14,4 +14,4 @@ I'm blogging (rarely) [here](https://write.as/mrpotatocode/), or more likely her
 
 I am working on a project with biosonification by listening to plants. [WAAAAAAVEYYYYYY](https://soundcloud.com/mrplantwave).
 
-You can reach me via <a href="mailto:t.rose.github@protonmail.com">email.</a>
+You can reach me via <a href="mailto:mrpotatocode@ttrroossee.anonaddy.com">email.</a>
