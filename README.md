@@ -12,4 +12,4 @@ I'm blogging (rarely) [here](https://write.as/mrpotatocode/), or more likely her
 
 I am working on a project with biosonification by listening to plants. [WAAAAAAVEYYYYYY](https://soundcloud.com/mrplantwave). HA, LIES. _Eventually_.
 
-You can reach me via <a href="mailto:mrpotatocode@ttrroossee.anonaddy.com">email.</a>
+You can reach me via <a href="mailto:mrpotatocode@ttrroossee.anonaddy.com">email</a>.
