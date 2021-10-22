@@ -4,7 +4,7 @@ I finished my Master of Information in Human Centered Data Science at the [Unive
 
 Professionally, I work as the Chief Data Scientist at [Purpose Analytics](https://purposeanalytics.ca) to help build a more data-informed non-profit sector. 
 
-If you're on my GitHub, my best R-based project is within this [repo](https://github.com/mrpotatocode/COFFEE_COFFEE_COFFEE), so if you only have a moment, check it out. Here's its [Shiny App](https://mrpotatocode.shinyapps.io/TastingNotePredictions/). Eventually a Reproducible Workflow project will come out of this with Professor Rohan Alexander(rohanalexander.com) but it's not finished. Sorry Rohan.
+If you're on my GitHub, my best R-based project is within this [repo](https://github.com/mrpotatocode/COFFEE_COFFEE_COFFEE), so if you only have a moment, check it out. Here's its [Shiny App](https://mrpotatocode.shinyapps.io/TastingNotePredictions/). Eventually a Reproducible Workflow project will come out of this with Professor [Rohan Alexander](rohanalexander.com) but it's not finished. Sorry Rohan.
 
 I'm blogging (rarely) [here](https://write.as/mrpotatocode/) or maybe on Purpose's blog.
 
