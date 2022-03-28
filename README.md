@@ -6,8 +6,4 @@ Professionally, I work as a Data Scientist at [Purpose Analytics](https://purpos
 
 If you're on my GitHub, my best R-based project is within this [repo](https://github.com/mrpotatocode/COFFEE_COFFEE_COFFEE), so if you only have a moment, check it out. Here's its [Shiny App](https://mrpotatocode.shinyapps.io/TastingNotePredictions/). Eventually a Reproducible Workflow project will come out of this with Professor [Rohan Alexander](rohanalexander.com) but it's not finished. Sorry Rohan.
 
-I'm blogging (rarely) [here](https://write.as/mrpotatocode/) or maybe on Purpose's blog.
-
-I am working on a project with biosonification by listening to plants. [WAAAAAAVEYYYYYY](https://soundcloud.com/mrplantwave). HA, LIES. _Eventually_.
-
 You can reach me via <a href="mailto:mrpotatocode@ttrroossee.anonaddy.com">email</a>.
