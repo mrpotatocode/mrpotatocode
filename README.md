@@ -1,8 +1,8 @@
-Hi. I’m MrPotatoCode. This is a Github README, _updated Oct 2021_.
+Hi. I’m MrPotatoCode. This is a Github README, _updated June 2022_.
+
+Professionally, I work as a Senior Model Steward at [Thomson Reuters](https://www.thomsonreuters.com/en.html) implementing data ethics and governance in mahcine learning models.
 
 I finished my Master of Information in Human Centered Data Science at the [University of Toronto iSchool](https://ischool.utoronto.ca/current-students/programs-courses/programs-of-study/master-of-information/human-centred-data-science-hcds/).
-
-Professionally, I work as a Data Scientist at [Purpose Analytics](https://purposeanalytics.ca) to help build a more data-informed non-profit sector. 
 
 If you're on my GitHub, my best public R-based project is within this [repo](https://github.com/mrpotatocode/COFFEE_COFFEE_COFFEE), so if you only have a moment, check it out. Here's its [Shiny App](https://mrpotatocode.shinyapps.io/TastingNotePredictions/). 
 
