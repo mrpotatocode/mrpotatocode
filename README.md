@@ -1,6 +1,6 @@
 Hi. I’m MrPotatoCode. This is a Github README, _updated Dec 2022_.
 
-I work as a Senior Model Steward Partner at [Thomson Reuters](https://www.thomsonreuters.com/en.html) implementing data ethics and governance in machine learning models. 
+I work as a Senior Model Steward Partner at [Thomson Reuters](https://www.thomsonreuters.com/en.html) implementing data ethics and governance in machine learning models. Previously I have worked as a data scientist/engineer/analyst at several non profits and healthcare organizations.
 
 This winter, I am teaching [SQL](https://github.com/mrpotatocode/DSI_SQL) at the [University of Toronto Data Sciences Institute](https://datasciences.utoronto.ca/).
 
