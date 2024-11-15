@@ -1,8 +1,8 @@
-Hi. I’m MrPotatoCode. This is a Github README, _updated Dec 2023_.
+Hi. I’m MrPotatoCode. This is a Github README, _updated Nov 2024_.
 
-I work as a Senior Model Steward Partner at [Thomson Reuters](https://www.thomsonreuters.com/en.html) implementing data ethics and governance in machine learning models. Previously I have worked as a data scientist/engineer/analyst at several non profits and healthcare organizations.
+I work as a Lead AI Governance Consultant at [Dataiku](https://www.dataiku.com/product/key-capabilities/governance/) helping organizations design and operationalize data ethics and AI governance into their machine learning pipelines. Previously I have worked in AI governance at [Thomson Reuters](https://www.thomsonreuters.com/en/artificial-intelligence/ai-principles.html) and as a data scientist/engineer/analyst at several non-profits and healthcare organizations.
 
-In 2024, I am teaching [SQL](https://github.com/UofT-DSI/02-intro_sql) at the [University of Toronto Data Sciences Institute](https://datasciences.utoronto.ca/). Almost all of my recent (public) GitHub commits are here. 
+In 2024 and 2025, I am teaching [SQL](https://github.com/UofT-DSI/02-intro_sql) at the [University of Toronto Data Sciences Institute](https://datasciences.utoronto.ca/). Almost all of my recent (public) GitHub commits are here. Other work is done in private repos ¯\\\_(ツ)_/¯.  
 
 I finished my Master of Information in Human Centered Data Science at the [University of Toronto iSchool](https://ischool.utoronto.ca/current-students/programs-courses/programs-of-study/master-of-information/human-centred-data-science-hcds/).
 
